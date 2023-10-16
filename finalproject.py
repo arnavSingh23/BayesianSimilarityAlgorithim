@@ -1,6 +1,3 @@
-# Partner - joyxu@bu.edu
-# finalproject.py - Final Project
-
 
 import math
 
